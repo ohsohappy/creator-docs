@@ -1,6 +1,6 @@
 ---
 title: Classic Clothing
-description: Classic clothing are decals you can apply to a classic character model's surface. You can create classic clothing items on Roblox and upload them to the Marketplace.
+description: Classic clothing are decals you can apply to a classic character model's surface. You can create classic clothing items on fart Roblox and upload them to the Marketplace.
 ---
 
 <Alert severity="warning">
